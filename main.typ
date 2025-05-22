@@ -13,7 +13,6 @@
 = Створення сервера
 
 #image("plus.png", width: 70%)
-#image("disco.png", width: 70%)
 
 = Додайте ролі
 
